@@ -1,0 +1,32 @@
+﻿Capstone Dataset Description
+Covid-19 Data Exploration and Statistical Research
+
+
+Dataset 1: www.ourworldindata.org/covid-deaths
+Dataset 2: https://data.world/covid-19-data-resource-hub/covid-19-case-counts/workspace/file?filename=COVID-19+Activity.csv
+
+
+Hypothesis
+        The presence of smoking is related to increased fatal mortalities.
+        Age directly correlates with increased fatal mortality.
+        Being fully vaccinated decreases fatal mortality rates.
+
+
+Dataset Description
+
+
+For this project I will be utilizing two datasets, as aforementioned. Each data set has several columns. I don’t plan to use each column as there are so many and not all are applicable to answering my hypothesis questions. Below are some of the columns that I will be looking closer at and working with. 
+
+
+        location: name of the country (or region within a country)
+        total_deaths: total death attributed to Covid-19
+        total_deaths_per_million: total deaths attributed to Covid-19 per 1,000,000 people.
+        vaccines: list of vaccines administered ion the country up to the current date
+        total_vaccinations: total number of does administered. For vaccines that require multiples         doses, each individual does is counted.
+        total_vaccinations_per_hundred: per 100 people in the total population of the country. 
+        people_fully_vaccinated: total number of people who received at least one vaccine dose. 
+                female_smokers: share of women who smoke, most recent year available
+                male_smokers: share of men who smoke, most recent yea available
+                aged_65_older: share of the population that is 65 years and older, most recent year available
+                aged_70_older: share of the population that is 70 years and older in 2015
+                extreme_poverty: share of the population living in extreme poverty, most recent year available since 2010
